@@ -1,0 +1,11 @@
+To Do List
+
+1- Add the yellow bird
+2- Add yellow bird high speed activation
+
+Complete Heuristic:
+-Total damage inficted to the pigs
+
+Notes:
+1- Population size of 25 may not provide enough diversity and even though the population improves, it may not reach a solution.
+2- 
